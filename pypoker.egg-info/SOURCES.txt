@@ -1,0 +1,5 @@
+setup.py
+pypoker.egg-info/PKG-INFO
+pypoker.egg-info/SOURCES.txt
+pypoker.egg-info/dependency_links.txt
+pypoker.egg-info/top_level.txt
